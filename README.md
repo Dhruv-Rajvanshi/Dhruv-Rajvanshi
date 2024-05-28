@@ -38,10 +38,12 @@
   <img width="12" />
   <img src="https://mikl5.github.io/afpaDev/src/img/php.gif" height="40" alt="php logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/acessors/acessors/main/java.gif" height="40" alt="java logo"  />
+  <img width="14" />
   <img src="https://www.logigroup.com/images/Logo_aws.gif" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/acessors/acessors/main/java.gif" height="40" alt="java logo"  />
-  <img width="12" />
+  <img src="https://down.imgspng.com/download/0720/wordpress_PNG47.png" height="40" alt="wordpress logo"  />
+  <img width="14" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
