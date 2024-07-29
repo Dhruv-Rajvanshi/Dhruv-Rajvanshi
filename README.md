@@ -42,7 +42,7 @@
   <img width="14" />
   <img src="https://www.logigroup.com/images/Logo_aws.gif" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="![image](https://github.com/user-attachments/assets/6657e391-d2c3-4799-9502-3df78e465018)" height="40" alt="wordpress logo"  />
+  <img src="https://github.com/user-attachments/assets/22042d77-9dfe-4833-a89a-524cb1567ba6" height="40" alt="wordpress logo"  />
   <img width="14" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
