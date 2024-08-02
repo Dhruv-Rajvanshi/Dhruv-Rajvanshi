@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png](https://www.pinclipart.com/picdir/big/539-5392404_transparent-c-language-logo-png-clipart.png" height="40" alt="c logo"  />
+  <img src="https://github.com/user-attachments/assets/a6739d6c-f972-49f8-8472-ec1dd0930c35" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://clipground.com/images/html5-png-image-10.png" height="40" alt="html logo"  />
   <img width="12" />
