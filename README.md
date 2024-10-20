@@ -46,10 +46,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![Snake animation) (https://github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
