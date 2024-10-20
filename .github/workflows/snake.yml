@@ -28,14 +28,17 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: List files in dist directory
+        run: ls -la dist
+
       - name: Change ownership of dist directory
         run: sudo chown -R $(whoami):$(whoami) dist
 
       - name: Clean up old snake files
         run: |
-          rm -f dist/github-contribution-grid-snake.gif
-          rm -f dist/github-contribution-grid-snake-dark.svg
-          rm -f dist/github-contribution-grid-snake.svg
+          git rm -f dist/github-contribution-grid-snake.gif || true
+          git rm -f dist/github-contribution-grid-snake-dark.svg || true
+          git rm -f dist/github-contribution-grid-snake.svg || true
 
       - name: Show build status
         run: |
@@ -46,6 +49,10 @@ jobs:
 
       - name: Push new files to the output branch
         run: |
-          git add dist/*
-          git commit -m "Update snake animations" || echo "No changes to commit"
-          git push origin HEAD:output
+          if [ "$(ls -A dist)" ]; then
+            git add dist/*
+            git commit -m "Update snake animations" || echo "No changes to commit"
+            git push origin HEAD:output
+          else
+            echo "No files to add in the dist directory."
+          fi
