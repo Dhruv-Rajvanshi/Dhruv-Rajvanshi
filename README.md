@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-[Snake animation) (https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+[Snake animation) (https://github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
