@@ -16,6 +16,11 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
     
+      - name: Configure Git user
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "dhruvrajvanshi127@gmail.com"
+      
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -31,28 +36,12 @@ jobs:
       - name: List files in dist directory
         run: ls -la dist
 
-      - name: Change ownership of dist directory
-        run: sudo chown -R $(whoami):$(whoami) dist
-
-      - name: Clean up old snake files
-        run: |
-          git rm -f dist/github-contribution-grid-snake.gif || true
-          git rm -f dist/github-contribution-grid-snake-dark.svg || true
-          git rm -f dist/github-contribution-grid-snake.svg || true
-
-      - name: Show build status
-        run: |
-          git status
-          git fetch origin output
-          git checkout output
-          git merge origin/output --strategy-option theirs
-
       - name: Push new files to the output branch
         run: |
           if [ "$(ls -A dist)" ]; then
             git add dist/*
             git commit -m "Update snake animations" || echo "No changes to commit"
-            git push origin HEAD:output
+            git push https://<your-username>:${{ secrets.PAT }}@github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi.git HEAD:output
           else
             echo "No files to add in the dist directory."
           fi
