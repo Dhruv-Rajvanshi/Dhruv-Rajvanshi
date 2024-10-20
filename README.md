@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="/Photos/github.gif" />
+  <img height="400" src="/Photos/github.gif" />
 </div>
 
 ###
@@ -11,41 +11,77 @@
 </div>
 
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Rajvanshi!;" />
+</h1>
 
-<h1 align="center"> Hey There!!👋 </h1>
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-###
+<br/>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-###
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-<p align="left">Hello! I'm Dhruv Rajvanshi, a passionate student at LD College, currently focused on upgrading my skill sets in DevOps. My journey in technology has been driven by curiosity and a desire to build efficient, scalable, and reliable systems.</p>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/a6739d6c-f972-49f8-8472-ec1dd0930c35" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://clipground.com/images/html5-png-image-10.png" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://mikl5.github.io/afpaDev/src/img/php.gif" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/acessors/acessors/main/java.gif" height="40" alt="java logo"  />
-  <img width="14" />
-  <img src="https://www.logigroup.com/images/Logo_aws.gif" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/22042d77-9dfe-4833-a89a-524cb1567ba6" height="40" alt="wordpress logo"  />
-  <img width="14" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
