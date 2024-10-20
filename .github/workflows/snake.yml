@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:  # Add this section
+  contents: write  # This gives the bot write access to push to the repository
+
 jobs:
   build:
     name: Generate Snake Animation
@@ -31,4 +34,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
