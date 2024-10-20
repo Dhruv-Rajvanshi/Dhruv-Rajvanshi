@@ -37,11 +37,12 @@ jobs:
         run: ls -la dist
 
       - name: Push new files to the output branch
-        run: |
-          if [ "$(ls -A dist)" ]; then
-            git add dist/*
-            git commit -m "Update snake animations" || echo "No changes to commit"
-            git push https://Dhruv-Rajvanshi:${{ secrets.PAT }}@github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi.git HEAD:output
-          else
-            echo "No files to add in the dist directory."
-          fi
+  run: |
+    if [ "$(ls -A dist)" ]; then
+      git add dist/*
+      git commit -m "Update snake animations" || echo "No changes to commit"
+      git push https://Dhruv-Rajvanshi:${{ secrets.PAT }}@github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi.git HEAD:output
+    else
+      echo "No files to add in the dist directory."
+    fi
+
