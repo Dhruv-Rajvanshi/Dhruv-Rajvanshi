@@ -28,10 +28,11 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Clean working directory
+      - name: Clean up old snake files
         run: |
-          git clean -fd
-          git reset --hard
+          rm -f dist/github-contribution-grid-snake.gif
+          rm -f dist/github-contribution-grid-snake-dark.svg
+          rm -f dist/github-contribution-grid-snake.svg
 
       - name: Show build status
         run: |
