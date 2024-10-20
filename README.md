@@ -5,8 +5,6 @@
 ###
 
 
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Rajvanshi!;" />
 </h1>
@@ -19,7 +17,7 @@
  
  🔭 I’m currently working on **containerizing applications and automating workflows in DevOps**
 
- 🌱 I’m currently learning **Docker, Kubernetes, AWS, Jenkins, and CI/CD pipelines**
+ 🌱 I’m currently learning **Ansible, Kubernetes, AWS, Jenkins, and CI/CD pipelines**
 
 💬 Ask me about **DevOps, Docker, CI/CD pipelines, Cloud Technologies, or anything [here](https://github.com/Dhruv-Rajvanshi/Dhruv-Rajvanshi/issues)**
 
@@ -28,9 +26,9 @@
  </div>
  
 <div align="center">
- <a href="https://www.linkedin.com/in/dhruv-rajvanshi-57bbb4223/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/dhruv_rajvanshi_/?hl=en"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
- <a href="https://x.com/dhruvRajvanshi4"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+ <a href="https://www.linkedin.com/in/dhruv-rajvanshi-57bbb4223/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/dhruv_rajvanshi_/?hl=en"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+ <a href="https://x.com/dhruvRajvanshi4"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
 </div>
 
  <hr/>
@@ -39,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,git,github,vscode,linux,bash" />
-    <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,java,html,css,mongodb,mysql,bootstrap,php,javascript,c,firebase,wordpress" /><br>
 </div>
 
 <br/>
