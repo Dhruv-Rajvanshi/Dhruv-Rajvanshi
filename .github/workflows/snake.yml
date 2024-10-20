@@ -28,6 +28,9 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Change ownership of dist directory
+        run: sudo chown -R $(whoami):$(whoami) dist
+
       - name: Clean up old snake files
         run: |
           rm -f dist/github-contribution-grid-snake.gif
